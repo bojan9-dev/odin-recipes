@@ -1,0 +1,30 @@
+/*style.css sheet */
+body {
+    font-family: sans-serif;
+    color:rgb(50, 46, 46);
+}
+
+.title {
+    color: black;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+
+li {
+    font-family:sans-serif;
+}
+
+h1,h5,h3 {
+    color: orange;
+}
+
+.images {
+    height: auto;
+    width: 300px;
+}
+
+.inlinediv {
+    display: inline;
+    width: 100px;
+    height: 100px;
+}
