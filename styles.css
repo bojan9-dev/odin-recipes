@@ -22,9 +22,3 @@ h1,h5,h3 {
     height: auto;
     width: 300px;
 }
-
-.inlinediv {
-    display: inline;
-    width: 100px;
-    height: 100px;
-}
